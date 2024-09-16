@@ -12,7 +12,7 @@ I'm currently pursuing a Master's in Information Systems at Northeastern Univers
 My professional experience at Capgemini Technology Services allowed me to specialize in data analysis, ETL processes, and cloud technologies. My hands-on expertise in Python, SQL, and Tableau enables me to solve complex business challenges with data-driven decisions. I love collaborating in teams that encourage innovation, and I’m always on the lookout to further explore data-driven solutions.
 </h4>
 
-<img align="right" alt="coding" width="450" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWE4cW40dXR6cmR5ZTB3N3c2ZWVib2x3NDhkNW12cTU2Nm0xMTdhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif">
+<img align="right" alt="coding" width="450" src="<iframe src="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihir-rahate&label=Profile%20views&color=0e75b6&style=flat" alt="mihir-rahate" /> </p>
 
